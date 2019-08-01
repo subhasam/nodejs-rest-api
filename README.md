@@ -1,2 +1,2 @@
-# rest-nodejs-app
+# nodejs-rest-api
 RESTful Service on Node JS
